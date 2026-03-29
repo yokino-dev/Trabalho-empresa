@@ -17,10 +17,22 @@ header{
   transition: 0.3s; 
   width: 40%; 
   border-radius: 5px; 
-  background-color: rgb(121, 19, 124);
+  background-color: rgb(223, 235, 122);
   margin: 20px; 
 }
 
 .content {
     padding: 20px;
+}
+
+.container-cards {
+    text-align: center;
+    padding: 40px;
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
