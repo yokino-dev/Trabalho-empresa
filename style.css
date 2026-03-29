@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo-img {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s; 
+  width: 40%; 
+  border-radius: 5px; 
+  background-color: rgb(121, 19, 124);
+  margin: 20px; 
+}
+
+.content {
+    padding: 20px;
+}
